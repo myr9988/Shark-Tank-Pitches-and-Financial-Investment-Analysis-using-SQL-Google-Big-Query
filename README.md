@@ -6,3 +6,5 @@ In this project I have Analyzed Shark Tank Season 1 Dataset which is Sourced fro
 4) What Impact they have Created in that Industry?
 5) Why they got Investment from Sharks?
 6) Why Sharks are Investing in them?
+
+Google BigQuery Project Link - https://console.cloud.google.com/bigquery?sq=292801963941:ca42a2a6884b4259b0e38eb57d2369d7
