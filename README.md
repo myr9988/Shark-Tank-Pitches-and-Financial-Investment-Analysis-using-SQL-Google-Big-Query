@@ -1,0 +1,2 @@
+# Shark-Tank-Pitches-and-Financial-Investment-Analysis-using-SQL-Google-Big-Query
+In this project I have Analyzed Shark Tank Season 1 Dataset which is Sourced from Kaggle to Understand the Background of the 1) Problem they are trying to Solve, 2) Brand, 3) Their Industry, 4) What Impact they have Created in that Industry, 5) Why they got Investment from Sharks?, 6) Why Sharks are Investing in them?
